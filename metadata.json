@@ -1,0 +1,12 @@
+{
+    "description": "Felipe's Loot Crate #0001",
+    "image": "https://yourdomain.com/path/to/your/image.jpg",
+    "name": "Loot Crate #0001",
+    "attributes": [
+      {
+        "trait_type": "Material",
+        "value": "Wood"
+      }
+    ]
+  }
+  
